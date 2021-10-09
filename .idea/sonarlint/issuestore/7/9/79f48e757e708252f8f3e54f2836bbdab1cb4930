@@ -1,0 +1,31 @@
+
+X
+java:S1144";Remove this unused private "prepareGeneratorSource" method.(¯¼ü¨8¶‘°ìÄ/
+P
+java:S1068".Remove this unused "BYTE_COLON" private field.(œ½•Òøÿÿÿÿ8Í ìÄ/
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(¾ä†˜úÿÿÿÿ8Í ìÄ/
+H
+java:S1172"-Remove this unused method parameter "fields".(¯¼ü¨8Ì£¸ìÄ/
+L
+java:S1068"/Remove this unused "BYTE_RCURLY" private field.(¶ÕÃ¨8Í ìÄ/
+P
+java:S1068".Remove this unused "BYTE_QUOTE" private field.(¾ä†˜úÿÿÿÿ8Í ìÄ/
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(¿ÜÎÙ8Í ìÄ/
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ô§ğüÿÿÿÿ8Í ìÄ/
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ß‰ÛÙûÿÿÿÿ8Í ìÄ/
+K
+java:S1068".Remove this unused "BYTE_COMMA" private field.(¿ÜÎÙ8Í ìÄ/
+M
+java:S1481"+Remove this unused "fields" local variable.(Ã¿ºÍùÿÿÿÿ8Í ìÄ/
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(¶ÕÃ¨8Í ìÄ/
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(œ½•Òøÿÿÿÿ8Í ìÄ/
+Z
+java:S1197"8Move the array designator from the variable to the type.(Ã¿ºÍùÿÿÿÿ8Í ìÄ/
+\
+java:S1854":Remove this useless assignment to local variable "fields".(Ã¿ºÍùÿÿÿÿ8Í ìÄ/
