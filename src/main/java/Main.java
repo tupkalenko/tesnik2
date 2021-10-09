@@ -1,16 +1,14 @@
-import base.Factory;
-import base.JsonGenerator;
-import base.Person;
+import base.*;
 
 import java.io.IOException;
 import java.nio.file.Files;
 
 public class Main {
     public static void main(String[] args) throws IOException {
-        Factory factory = new Factory();
+        XMLFactory factory = new XMLFactory();
         Person person = new Person(1l, "a", "b");
 
-        JsonGenerator<Person> jsonGenerator = factory.createJsonGenerator(Person.class);
-        System.out.println(String.join("", Files.readAllLines(jsonGenerator.generateAndGetFile(person).toPath())));
+         Generator<Person> generator = factory.createGenerator(Person.class);
+        System.out.println(String.join("", Files.readAllLines(generator.generateAndGetFile(person).toPath())));
     }
 }
